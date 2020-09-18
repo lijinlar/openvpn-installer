@@ -1,3 +1,7 @@
+# For setting up AWS free tier server
+Follow these steps
+https://medium.com/@lijinlar/free-vpn-server-for-playing-pubg-e8c8d3cdef20
+
 # openvpn-installer
 For installing openvpn server on ubuntu 16 os
 
